@@ -1,7 +1,9 @@
-.hola{
-    justify-content: center;
-    max-width: 1200px;
-    width: 80%;
-    margin: 0 auto;
-    background-color: aquamarine;
+
+:root{
+   --fuenteHeading:'Staatliches', sans-serif;
+   --fuenteParrafos:'Roboto', sans-serif;
+  
+     
+
 }
+

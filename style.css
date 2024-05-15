@@ -1,9 +1,10 @@
 
 :root{
-   --fuenteHeading:'Staatliches', sans-serif;
-   --fuenteParrafos:'Roboto', sans-serif;
-  
-     
 
 }
+body{
+   margin:0;
+}
+.header{
 
+}
